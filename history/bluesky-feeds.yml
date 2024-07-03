@@ -1,7 +1,7 @@
 url: https://feeds.skyblue.social/health
-status: up
-code: 200
-responseTime: 546
-lastUpdated: 2024-07-02T23:13:45.380Z
+status: down
+code: 500
+responseTime: 268
+lastUpdated: 2024-07-03T22:21:07.395Z
 startTime: 2024-04-26T13:07:10.853Z
 generator: Upptime <https://github.com/upptime/upptime>
