@@ -4,7 +4,7 @@
     "url": "https://feeds.skyblue.social/health",
     "icon": "https://icons.duckduckgo.com/ip3/feeds.skyblue.social.ico",
     "slug": "bluesky-feeds",
-    "status": "up",
+    "status": "down",
     "uptime": "98.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 397,
     "timeYear": 419,
     "dailyMinutesDown": {
+      "2024-07-07": 0,
       "2024-06-28": 254,
       "2024-06-13": 105,
       "2024-06-12": 81,
